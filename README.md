@@ -1,7 +1,6 @@
 ### Hi there 👋
-🛠 Currently working on Android mobile application for my Final Year Project using Flutter
-
-👩🏻‍💻 Fun fact: I developed my personal website 
+🛠 Currently interested in React
+👩🏻‍💻 Fun fact: I almost finish my internship
 <!--
 **alianadzirah/alianadzirah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
