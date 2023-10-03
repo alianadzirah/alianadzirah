@@ -1,6 +1,5 @@
 ### Hi there 👋
-🛠 Currently interested in React
-👩🏻‍💻 Fun fact: I almost finished my internship
+🛠 working
 <!--
 **alianadzirah/alianadzirah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
